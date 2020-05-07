@@ -9381,7 +9381,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #2c3e50 !important;
+  color: black !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
